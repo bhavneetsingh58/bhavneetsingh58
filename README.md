@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 # Find me around the web 🌎: 
-- Sharing tech Updates and Learning resources @ <a href="https://www.geekypajis.com">Geeky Pajis</a> & <a href=" https://www.techwaria.blogspot.com ">TechWaria</a> 📹 ✍🏾
+- Sharing tech Updates and Learning resources @ <a href="https://www.geekypajis.com">Geeky Pajis</a> & <a href="https://www.techwaria.blogspot.com">TechWaria</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://www.codechef.com/users/singhbhavneet2">Code Chef</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/bhavneet-singh-sachdev-83659613b">LinkedIn</a> 💼
 - 📫 reach me @ bhavneetsachdev58@gmail.com
