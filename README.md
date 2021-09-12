@@ -10,7 +10,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 Here are some ideas to get you started:
 
 - 🔭 I’m currently improving my knowledge on Data Structures & Algorithms.
-- 📱 I recently worked on Dart & Flutter.
+- 📱 I recently Wrote Automation Scripts using Pandas and Selenium .
 - 💻  Java & Python are my go to tools. 
 
 
