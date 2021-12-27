@@ -10,7 +10,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 Here are some ideas to get you started:
 
 - 🔭 I’m currently improving my knowledge on Data Structures & Algorithms.
-- 📱 I recently Wrote Automation Scripts using Pandas and Selenium .
+- 📱 I Write Data Analysis and Automation Scripts using SQL,Hive,Python - Pandas,Numpy,win32com,openpyxll,selenium,etc.
 - 💻  Java & Python are my go to tools. 
 
 
